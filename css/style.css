@@ -1,10 +1,10 @@
 .dog { 
   float: left;
-  border: solid 5px gray;
+  /* border: solid 5px gray; */
   width: 30%;
   background-color: aqua;
-  /* padding: 5px; */
   margin-right: 5px;
+  border-radius: 30px;
 }
 
 p {
@@ -17,31 +17,52 @@ p {
   margin-left: auto;
   margin-right: auto;
   display: block;
+  border:  gray 5px;
+  border-radius: 15px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
 } 
 
 .cat {
+  margin-top: 10px;
   margin-left: 5px;
   float: left;
-  border: solid 5px gray;
+  /* border: solid 5px gray; */
   width: 30%;
   background-color: rebeccapurple;
   margin-right: 5px;
+  border-radius: 30px;
 }
 
 .bunny {
   margin-left: 5px;
   float: left;
-  border: solid 5px gray;
+  /* border: solid 5px gray; */
   width: 30%;
   background-color: red;
   margin-right: 5px;
+  border-radius: 30px;
 }
 
 .parrot {
-  margin-top: 10px;
-  float: inline-start;
-  border: solid 5px gray;
+margin-left: 5px;
+  float: left;
+  /* border: solid 5px gray; */
   width: 30%;
   background-color: brown;
   /* margin-right: 5px; */
+  border-radius: 20px;
+  
+}
+
+.turtle {
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+  float: left;
+  /* border: solid 5px gray; */
+  width: 30%;
+  background-color: goldenrod;
+  margin-right: 5px;
+  border-radius: 30px;
 }
