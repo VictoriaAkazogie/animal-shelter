@@ -1,0 +1,47 @@
+.dog { 
+  float: left;
+  border: solid 5px gray;
+  width: 30%;
+  background-color: aqua;
+  /* padding: 5px; */
+  margin-right: 5px;
+}
+
+p {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+ img {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+} 
+
+.cat {
+  margin-left: 5px;
+  float: left;
+  border: solid 5px gray;
+  width: 30%;
+  background-color: rebeccapurple;
+  margin-right: 5px;
+}
+
+.bunny {
+  margin-left: 5px;
+  float: left;
+  border: solid 5px gray;
+  width: 30%;
+  background-color: red;
+  margin-right: 5px;
+}
+
+.parrot {
+  margin-top: 10px;
+  float: inline-start;
+  border: solid 5px gray;
+  width: 30%;
+  background-color: brown;
+  /* margin-right: 5px; */
+}
