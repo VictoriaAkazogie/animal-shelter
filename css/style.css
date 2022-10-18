@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+img {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 20px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+} 
+
+.box {
+  text-align: center;
+  margin: auto;
+  border: 2px solid darkslategrey;
+  background-color: darkslategrey;
+  display: block;
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.box1 {
+  float: left;
+  width: 50%;
+  margin-bottom: 10px;
+}
